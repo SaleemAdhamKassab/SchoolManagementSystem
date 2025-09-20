@@ -78,9 +78,9 @@ The application will start, and the Swagger UI will automatically open in your b
 
 ## Contact
 
-For any questions or support, please don't hesitate to contact me:
+For any questions or support, please don't hesitate to contact me:<br>
 
-**Saleem Kassab**
+**Saleem Kassab** <br>
 **Email:** saleemkassab5@gmail.com
 **Phone:** 00963 959 270 763
 
