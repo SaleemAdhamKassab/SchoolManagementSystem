@@ -83,5 +83,4 @@ For any questions or support, please don't hesitate to contact me:<br>
 **Saleem Kassab** <br>
 **Email:** saleemkassab5@gmail.com<br>
 **Phone:** 00963 959 270 763
-
-Or you can open an issue in the repository.
+<br>
