@@ -47,6 +47,7 @@ This project is structured using **Clean Architecture** principles to separate c
     * Open `appsettings.json` in the `SchoolManagementSystem.API` project.
     * Update the `DefaultConnection` string to point to your SQL Server instance.
 
+
     ```json
     "ConnectionStrings": {
       "DefaultConnection": "Server=localhost;Database=SchoolManagementSystemDb;Trusted_Connection=True;TrustServerCertificate=True"
