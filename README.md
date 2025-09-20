@@ -28,7 +28,7 @@ This project is structured using **Clean Architecture** principles to separate c
 
 ### Prerequisites
 
-* [.NET 9.0 SDK](https://dotnet.com/download/dotnet/9.0)
+* [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 * [SQL Server](https://www.microsoft.com/sql-server/sql-server-downloads) (or Docker container)
 * A code editor like [Visual Studio](https://visualstudio.microsoft.com/vs/) or [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -39,7 +39,7 @@ This project is structured using **Clean Architecture** principles to separate c
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/SaleemAdhamKassab/SchoolManagementSystem.git]
+    git clone [https://github.com/SaleemAdhamKassab/SchoolManagementSystem.git](https://github.com/SaleemAdhamKassab/SchoolManagementSystem.git)
     cd SchoolManagementSystem
     ```
 
@@ -76,9 +76,11 @@ The application will start, and the Swagger UI will automatically open in your b
 ---
 
 ## Contact
-For any questions or support, please don't hesitate to contact me:
-Saleem Kassab
-Email: saleemkassab5@gmail.com
-Phone: 00963 959 270 763
 
-For any questions or support, please open an issue in the repository.
+For any questions or support, please don't hesitate to contact me:
+
+**Saleem Kassab**
+**Email:** saleemkassab5@gmail.com
+**Phone:** 00963 959 270 763
+
+Or you can open an issue in the repository.
