@@ -45,7 +45,7 @@ This project is structured using **Clean Architecture** principles to separate c
 
 2.  **Configure the Database Connection:**
     * Open `appsettings.json` in the `SchoolManagementSystem.API` project.
-    * Update the `DefaultConnection` string to point to your SQL Server instance.
+    * Update the `DefaultConnection` string to point to your SQL Server instance.<br>
 
 
     ```json
@@ -81,7 +81,7 @@ The application will start, and the Swagger UI will automatically open in your b
 For any questions or support, please don't hesitate to contact me:<br>
 
 **Saleem Kassab** <br>
-**Email:** saleemkassab5@gmail.com
+**Email:** saleemkassab5@gmail.com<br>
 **Phone:** 00963 959 270 763
 
 Or you can open an issue in the repository.
