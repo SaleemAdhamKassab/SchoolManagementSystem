@@ -39,7 +39,7 @@ This project is structured using **Clean Architecture** principles to separate c
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/SchoolManagementSystem.git](https://github.com/your-username/SchoolManagementSystem.git)
+    git clone [https://github.com/SaleemAdhamKassab/SchoolManagementSystem.git]
     cd SchoolManagementSystem
     ```
 
@@ -76,5 +76,9 @@ The application will start, and the Swagger UI will automatically open in your b
 ---
 
 ## Contact
+For any questions or support, please don't hesitate to contact me:
+Saleem Kassab
+Email: saleemkassab5@gmail.com
+Phone: 00963 959 270 763
 
 For any questions or support, please open an issue in the repository.
